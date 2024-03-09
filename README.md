@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, SQL, etc**
 
-- 📫 How to reach me **sagarpundir65@gmail.com**
+- 📫 How to reach me **https:/www.linkedin.com/in/sagar-pundir-446918242**
 
 - ⚡ Fun fact **Travelling, Watching movies**
 
